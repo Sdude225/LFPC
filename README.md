@@ -14,5 +14,10 @@ gramatica arata cam asa
 
 function {identifier}( [data type identifier]* ) -> declararea functillor, se controleaza scrierea corecta
 Deoarece parserul e recursiv, declararea functiei trebuie sa fie mai sus decit call-ul la ea.
+La moment nu se suportu 'body' functiei
 
 La fiecare expresie practic se controleaza scrierea corecta: daca se scapa semnul egal, ';' etc.
+
+input sample_code.txt
+
+output in terminal : in main sunt niste functii care arata in terminal toate variabilele (nume, tip si valoare daca o au) si functiile (nume, tipul si numele argumentului) declarate.
