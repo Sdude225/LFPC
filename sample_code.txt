@@ -1,0 +1,20 @@
+function sum(int a, int b)
+
+
+int a;
+int a1;
+float b;
+string c;
+int d;
+int e;
+
+a = 7;
+
+b = 7.0;
+
+c = "hello world";
+
+d = sum(a, a1);
+
+e = 7 + 5 * 3 - 100;
+
